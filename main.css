@@ -1,0 +1,43 @@
+nav
+{
+	position: fixed;
+	width: 100%;
+	height: 60px;
+	padding-left: 10px;
+	background-color: #D3D3D3;
+	margin-bottom: 20px;
+}
+ul
+{
+	height: 30px;
+	padding-left: 0px;
+	list-style: none;
+	display: inline-block;
+	font-size: 25px;
+	margin-top: 15px;
+}
+li
+{
+	display: inline-block;
+}
+body
+{
+	margin: 0;
+}
+body * {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+ul.links
+{
+	padding-right: 10px;
+	float: right;
+}
+li.links
+{
+	margin-right: 10px;
+}
+a
+{
+	text-decoration: none;
+}
